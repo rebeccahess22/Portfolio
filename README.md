@@ -2,6 +2,7 @@
 In this project, we are given a list of games in a .csv titled games.csv. It contains the columns year, round, winner, opponent, winner_goals, and opponent goals. 
 
 We created a database titled **worldcup** and two empty tables: **games** and **teams**. 
+
 The **games** table contains the following columns: 
   * year
   * round
