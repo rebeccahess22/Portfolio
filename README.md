@@ -15,6 +15,7 @@ The **games** table contains the following columns:
 The **teams** table contains:
   * team_id
   * name 
+
 The two tables are related through foreign keys winner_id and opponent_id in the games table and primary key team_id in the teams table. 
 The commands to create these tables can be found in bashterminal.sh. 
 
