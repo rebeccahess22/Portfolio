@@ -10,6 +10,7 @@ The **games** table contains the following columns:
   * game_id
   * winner_id
   * opponent_id
+
 The **teams** table contains:
   * team_id
   * name 
