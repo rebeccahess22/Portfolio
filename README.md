@@ -20,4 +20,4 @@ The two tables are related through foreign keys winner_id and opponent_id in the
 The commands to create these tables can be found in bashterminal.sh. 
 
 The data from the csv is loaded to the csv using a bash script titled insert_data.sh. 
-After the data is inserted, we use another bash script to query the data titles queries.sh. 
+After the data is inserted, we use another bash script to query the data titled queries.sh. 
